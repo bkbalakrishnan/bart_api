@@ -17,12 +17,14 @@ Files:
 
 To Execute:
 ===========
-1. Get an API KEY to access Bart API
-2. Install all the python modules listed in requirements.txt
-3. Make sure you have created the following environmental variables:
+1. Clone the GIT repo
+2. Set the python path to the GIT repo location
+3. Get an API KEY to access Bart API
+4. Install all the python modules listed in requirements.txt
+5. Make sure you have created the following environmental variables:
         a. BART_API_KEY
         b. POSTGRES_USERNAME
         c. POSTGRES_PASSWORD
-4. Ensure the database details in config.ini is accurate
-5. Execute main.py
+6. Ensure the database details in config.ini is accurate
+7. Execute main.py
 
